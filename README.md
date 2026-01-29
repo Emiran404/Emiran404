@@ -28,7 +28,8 @@
 
 🔹 **Partners Discord Bot**  
 A Discord bot project focused on server management and automation.
-Website: https://partnersbot.com
+
+-Website: https://partnersbot.com
 
 ---
 
