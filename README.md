@@ -1,9 +1,9 @@
 <div align="center">
   <h1>👋 Hi, I'm Emirhan</h1>
   <p>Developer • Learning by Building 🚀</p>
-  [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36466)](https://codetime.dev)
 </div>
 
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36466)](https://codetime.dev)
 ---
 
 ### 👤 About Me
